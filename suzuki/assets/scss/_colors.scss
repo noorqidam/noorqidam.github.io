@@ -1,0 +1,18 @@
+.breadcumb-tab .tabs .nav-link.active {
+  border-bottom: 3px solid #163c80 !important;
+  opacity: 1 !important;
+  color: #163c80 !important;
+  font-weight: bold;
+}
+.car-detail-color__tab .nav-link {
+  opacity: 1 !important;
+  width: 36px;
+  height: 36px;
+  border: 2px solid #fff !important;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.52);
+  margin: 0 7px;
+}
+.car-detail-color__tab .nav-link.active {
+  border: 2px solid #163c80 !important;
+}
